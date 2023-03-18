@@ -1,9 +1,15 @@
 ## Oiii eu sou Amélio Ferreira Cardoso, criador de conteúdo de programação e tecnologia!
-<div>
-  <a href="https://beacons.ai/Amelio Ferreira Cardoso">
-    <img height="188em"src="https://github.readmestats.vercel.app/api/api>username=SYSPROGA&show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-    <img height="188em"src="https://github.readme-stats.vercel.app/api/api/top-langs/username=SYSPROGA&layout=compact&langs_count=16&themes=dracula"/>      
-<div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
                                                                                                                                                     
                                                                                                                                                     
                                                                                                                                                     
